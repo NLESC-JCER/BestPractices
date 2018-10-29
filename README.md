@@ -18,6 +18,14 @@
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 * [Armadillo](http://arma.sourceforge.net/)
 
+### Profiling
+* [profile graphic visualization](https://github.com/jrfonseca/gprof2dot)
+
+### Optimization
+* [List of curated performance optization resource](https://github.com/fenbf/AwesomePerfCpp#books)
+
+### Algorithms
+* [Useful Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 # FORTRAN
 
@@ -28,7 +36,7 @@
  * [This book](https://global.oup.com/academic/product/modern-fortran-explained-9780198811886?cc=nl&lang=en&) is a must have
 
 ### BUILD
-* [CMAKE](https://cmake.org/) is the most used tools. See [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook) for list of curated recipes. 
+* [CMAKE](https://cmake.org/) is the most used tool. See [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook) for list of curated recipes. 
 
 ### TEST
 * [ctest](https://cmake.org/cmake/help/latest/manual/ctest.1.html)
@@ -36,3 +44,6 @@
 
 ### Numerical Libraries
 * [Scalapack](http://www.netlib.org/scalapack/)
+
+### Profiling
+* [profile graphic visualization](https://github.com/jrfonseca/gprof2dot)
