@@ -47,3 +47,6 @@
 
 ### Profiling
 * [profile graphic visualization](https://github.com/jrfonseca/gprof2dot)
+
+### DEbugging
+* [compiler flags](http://fortranwiki.org/fortran/show/Debugging+tools)
