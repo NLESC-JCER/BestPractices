@@ -8,14 +8,16 @@ List of the requirements to run the test Suite for different **NLESC-JCER** proj
 
 ### Multiscale simulations of excitation dynamics in molecular materials for sustainable energy applications
 
- * C++ compilers
- * MKL
+ * [icc](https://software.intel.com/en-us/c-compilers) and [g++](https://gcc.gnu.org/) *C++* compilers
+ * [MKL](https://software.intel.com/en-us/mkl)
+ * [Other libraries](https://github.com/votca/votca/blob/master/share/doc/INSTALL.md)
  
  
 ### A light in the dark: quantum Monte Carlo meets solar energy conversion
 
- * Fortran compilers
- * MKL
+ * [ifort](https://software.intel.com/en-us/fortran-compilers) and [gfortran](https://gcc.gnu.org/) Fortan compilers
+ * [MKL](https://software.intel.com/en-us/mkl)
+ * [Lapack](http://www.netlib.org/lapack/)
  
 
 ### eScience Technology to Boost Quantum Dot Energy Conversion
