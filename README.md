@@ -5,7 +5,7 @@
 * [Effective Modern C++](http://shop.oreilly.com/product/0636920033707.do)
 
 ### BUILD
-* [CMAKE](https://cmake.org/) is the most used tool. See [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook) for list of curated recipes. 
+* [CMAKE](https://cmake.org/) is the most used tool. See [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook) for list of curated recipes.
 
 ### TEST
 * [ctest](https://cmake.org/cmake/help/latest/manual/ctest.1.html)
@@ -17,6 +17,7 @@
 * [Elemental](http://libelemental.org/)
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 * [Armadillo](http://arma.sourceforge.net/)
+* [mathematical software](http://www.swmath.org)
 
 ### Profiling
 * [profile graphic visualization](https://github.com/jrfonseca/gprof2dot)
